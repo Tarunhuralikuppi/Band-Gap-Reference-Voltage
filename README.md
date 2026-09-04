@@ -893,5 +893,5 @@ virtuoso &
 
 ---
 
-*Repository maintained by: Nikhil K M*  
+*Repository maintained by: Tarun Huralikuppi*  
 *NIE Mysuru — ECE Department — June 2026*
